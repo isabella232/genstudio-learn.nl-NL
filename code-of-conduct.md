@@ -2,7 +2,7 @@
 source-git-commit: 2b9678f7f2d11a464f40cd68984ac90a3b44c7dd
 workflow-type: tm+mt
 source-wordcount: '427'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 # Gedragscode van Adobe
@@ -50,7 +50,7 @@ als deze niet in overeenstemming zijn met deze gedragscode, of om een bijdrager
 tijdelijk of permanent verbannen vanwege ander gedrag dat ze ongepast,
 bedreigend, beledigend of schadelijk achten.
 
-## Scope
+## Bereik
 
 Deze gedragscode is zowel van toepassing in projectruimtes als in openbare ruimtes
 wanneer een persoon het project of de gemeenschap ervan vertegenwoordigt. Voorbeelden van

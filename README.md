@@ -2,7 +2,7 @@
 source-git-commit: 2b9678f7f2d11a464f40cd68984ac90a3b44c7dd
 workflow-type: tm+mt
 source-wordcount: '483'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 # Contribute-artikel
@@ -43,7 +43,7 @@ Als u deel uitmaakt van de gemeenschap van de Adobe en een nieuw onderwerp wilt 
 
 Communautaire contribuanten kunnen GitHub UI voor basishet uitgeven of vork gebruiken het repo om belangrijke bijdragen te leveren.
 
-Zie de [Handleiding Adobe Docs Contributor](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) voor meer informatie.
+Zie de [Handleiding Adobe Docs Contributor](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=nl) voor meer informatie.
 
 ## Interne contribuanten
 

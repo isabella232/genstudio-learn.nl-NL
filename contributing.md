@@ -2,7 +2,7 @@
 source-git-commit: 2b9678f7f2d11a464f40cd68984ac90a3b44c7dd
 workflow-type: tm+mt
 source-wordcount: '281'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 # Bijdragen
@@ -13,7 +13,7 @@ Hieronder volgt een aantal richtlijnen die moeten worden gevolgd wanneer u een b
 
 ## Gedragscode
 
-Dit project valt onder de [gedragscode](code-of-conduct.md) van Adobe. Als u deelneemt, 
+Dit project voldoet aan de Adobe-[gedragscode](code-of-conduct.md). Als u deelneemt, 
 wordt van u verwacht dat u deze code volgt. Meld onaanvaardbaar gedrag aan
 [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 
